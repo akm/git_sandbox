@@ -1,3 +1,4 @@
 
 I. function_a
+III. function_c
 
