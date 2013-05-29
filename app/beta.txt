@@ -1,3 +1,4 @@
 
 A. line for function_a
 C. line for function_c
+D. line for function_d
